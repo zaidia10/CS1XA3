@@ -1,5 +1,0 @@
-/home/zaidia10/CS1XA3/random.txt:5:#TODO yeah this is the first one
-/home/zaidia10/CS1XA3/random.txt:8:this is the second #TODO am i right
-/home/zaidia10/CS1XA3/Project01/project_analyze.sh:10:		linesTodo=$(grep -Rn '#TODO' /home/zaidia10/CS1XA3)
-/home/zaidia10/CS1XA3/Project01/project_analyze.sh:14:		linesTodo=$(grep -Rn '#TODO' /home/zaidia10/CS1XA3)
-/home/zaidia10/CS1XA3/Project01/random2.txt:4:#TODO third one gang shit
